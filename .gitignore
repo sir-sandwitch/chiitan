@@ -1,0 +1,4 @@
+venv/*
+token.txt
+spotify_id.txt
+spotify_secret.txt
