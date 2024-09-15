@@ -1,0 +1,1 @@
+Chii-tan is a discord bot that plays music from spotify and youtube.
